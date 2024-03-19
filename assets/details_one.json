@@ -1,0 +1,13 @@
+{
+  "name": "Raja",
+  "Age": "24",
+  "Address": [
+    {
+      "House No": "287",
+      "Lane": "Panruti Main Road",
+      "District": "Cuddalore",
+      "State": "TamilNadu",
+      "Pincode": "607303"
+    }
+  ]
+}
